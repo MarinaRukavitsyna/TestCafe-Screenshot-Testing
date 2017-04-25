@@ -1,0 +1,1 @@
+# TestCafe-Screenshot-Testing
